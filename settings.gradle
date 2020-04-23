@@ -1,0 +1,3 @@
+rootProject.name='androidOpusEncode'
+include ':app'
+include ':opusEncode'
